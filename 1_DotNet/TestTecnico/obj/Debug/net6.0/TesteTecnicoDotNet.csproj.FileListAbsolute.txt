@@ -1,0 +1,15 @@
+T:\.net_projects\TestTecnico\TestTecnico\bin\Debug\net6.0\TesteTecnicoDotNet.exe
+T:\.net_projects\TestTecnico\TestTecnico\bin\Debug\net6.0\TesteTecnicoDotNet.deps.json
+T:\.net_projects\TestTecnico\TestTecnico\bin\Debug\net6.0\TesteTecnicoDotNet.runtimeconfig.json
+T:\.net_projects\TestTecnico\TestTecnico\bin\Debug\net6.0\TesteTecnicoDotNet.dll
+T:\.net_projects\TestTecnico\TestTecnico\bin\Debug\net6.0\TesteTecnicoDotNet.pdb
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\TesteTecnicoDotNet.csproj.AssemblyReference.cache
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\TesteTecnicoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\TesteTecnicoDotNet.AssemblyInfoInputs.cache
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\TesteTecnicoDotNet.AssemblyInfo.cs
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\TesteTecnicoDotNet.csproj.CoreCompileInputs.cache
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\TesteTecnicoDotNet.dll
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\refint\TesteTecnicoDotNet.dll
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\TesteTecnicoDotNet.pdb
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\TesteTecnicoDotNet.genruntimeconfig.cache
+T:\.net_projects\TestTecnico\TestTecnico\obj\Debug\net6.0\ref\TesteTecnicoDotNet.dll
